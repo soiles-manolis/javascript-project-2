@@ -1,5 +1,5 @@
-# vanilla-project-1
-frontend development:vanilla javascript-html
+# javascript-project-2
+frontend development project: vanilla javascript-html-bootstrap (css framework)
 Σ' αυτό το project παίρνω δεδομένα μέσω του unsplash api και τα εμφανίζω στην html page. 
 Υπάρχει πεδίο αναζήτησης στο οποίο ο χρήστης πληκτρολογεί τι είδους εικόνα θέλει να δει,
 είτε πατώντας το κουμπί της αναζήτησης είτε πατώντας enter.
